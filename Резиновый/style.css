@@ -1,0 +1,30 @@
+﻿.header {
+    position: relative;
+    background: #7373ff;
+	min-height: 100px;
+	max-width: 1250px;
+	margin: auto;
+	text-align: center;
+	min-width: 300px;
+}
+.center {
+    position: relative;
+	min-height: 400px;
+    max-width: 1250px;
+	min-width: 300px;
+	margin: auto;
+}
+.left {
+    background: #babaff;
+	float: left;
+	width: 50%;
+	min-width: 300px;
+	min-height: inherit;
+}
+.right {
+    background: #e0e0ff;
+	float: right;
+	width: 50%;
+	min-width: 300px;
+	min-height: inherit;
+}
